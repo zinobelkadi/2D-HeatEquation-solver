@@ -1,11 +1,12 @@
 # 2D implicit Heat equation solver 
 
+This is a small project I did on my spare time a while ago and wrote a small 2Dheat equation solver using basic numeircal algorithms
 
 
 # Project Title
 
 ## Project Structure
-
+```
 Here is my project structure:
 ├── CMakeLists.txt
 ├── Dockerfile
@@ -36,7 +37,7 @@ Here is my project structure:
         └── utils
             └── utils.hpp
 
-
+```
 ## Running the Solver
 
 You can run the solver with the following command:
